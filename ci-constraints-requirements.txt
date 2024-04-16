@@ -153,6 +153,9 @@ urllib3==2.2.1
 virtualenv==20.26.0
     # via nox
 
+pytest-codspeed==2.2.1
+    # via cryptography (pyproject.toml)
+
 # The following packages are considered to be unsafe in a requirements file:
 # cffi
 # pycparser
