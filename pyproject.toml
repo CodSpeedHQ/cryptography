@@ -68,6 +68,7 @@ test = [
     "cryptography_vectors",
     "pytest >=6.2.0",
     "pytest-benchmark",
+    "pytest-codspeed",
     "pytest-cov",
     "pytest-xdist",
     "pretend",
